@@ -9,4 +9,4 @@ requests
 aiohttp
 catbox-uploader
 cloudscraper
-git
+github
